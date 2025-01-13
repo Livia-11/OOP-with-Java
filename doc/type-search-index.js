@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"rw.ac.rca.isomero","l":"Book"},{"p":"<Unnamed>","l":"Main"},{"p":"rw.ac.rca.isomero","l":"Program"}];updateSearchResults();
