@@ -1,10 +1,11 @@
 package app.oop.enums;
 
-enum Gender{
-    MALE,FEMALE;
-}
+
 public class Program {
 
+    enum Gender{
+        MALE,FEMALE;
+    }
     public static void main(String[] args) {
         Gender gender = Gender.FEMALE;
         System.out.println(gender);
