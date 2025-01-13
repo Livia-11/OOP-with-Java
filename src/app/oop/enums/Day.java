@@ -31,7 +31,7 @@ public enum Day {
                                     break;
                                     case Sunday:
                                         System.out.println("Going to church and planning for the next week");
-                                        break;
+            default:
         }
     }
 }
